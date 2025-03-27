@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8PE2eNAK6fHKD6N/N80rGR+Hi3Rp2zs6XxCOQn1GW7I=",
+  "Hash": "IPsrkEWgA6rBHOYkZ0dnw96rGGFioCcTMXnynpMfO94=",
   "Source": "EventManagementApp",
   "BasePath": "_content/EventManagementApp",
   "Mode": "Default",
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-8lj8j8a2c1.gz",
       "SourceId": "EventManagementApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EventManagementApp",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=8lj8j8a2c1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "k3f33h6ym0",
+      "Integrity": "MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\css\\site.css"
@@ -267,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\6z2dflnw5x-somfmmm0md.gz",
+      "SourceId": "EventManagementApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EventManagementApp",
+      "RelativePath": "js/eventDetails#[.{fingerprint=somfmmm0md}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\eventDetails.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ndnryd79s7",
+      "Integrity": "GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\eventDetails.js"
     },
     {
       "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\7i1oadsd1k-jd9uben2k1.gz",
@@ -1417,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "8lj8j8a2c1",
+      "Integrity": "1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1443,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\eventDetails.js",
+      "SourceId": "EventManagementApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\",
+      "BasePath": "_content/EventManagementApp",
+      "RelativePath": "js/eventDetails#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "somfmmm0md",
+      "Integrity": "nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\eventDetails.js"
     },
     {
       "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\site.js",
@@ -2728,13 +2770,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-b9sayid5wm.gz",
+      "Route": "css/site.8lj8j8a2c1.css",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-8lj8j8a2c1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001262626263"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "791"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 13:59:07 GMT"
+          "Value": "Thu, 27 Mar 2025 00:25:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2814,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "8lj8j8a2c1"
         },
         {
           "Name": "label",
@@ -2786,12 +2828,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.8lj8j8a2c1.css",
       "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "2462"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 13:59:07 GMT"
+          "Value": "Thu, 27 Mar 2025 00:25:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2865,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "8lj8j8a2c1"
         },
         {
           "Name": "label",
@@ -2831,13 +2873,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-b9sayid5wm.gz",
+      "Route": "css/site.8lj8j8a2c1.css.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-8lj8j8a2c1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2888,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "791"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2896,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 13:59:07 GMT"
+          "Value": "Thu, 27 Mar 2025 00:25:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2918,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "8lj8j8a2c1"
         },
         {
           "Name": "label",
@@ -2884,18 +2926,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-8lj8j8a2c1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001262626263"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2947,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "791"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 13:59:07 GMT"
+          "Value": "Thu, 27 Mar 2025 00:25:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2975,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ="
         }
       ]
     },
@@ -2954,7 +2996,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "2462"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +3004,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 13:59:07 GMT"
+          "Value": "Thu, 27 Mar 2025 00:25:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +3018,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-1Lf6SRcBvULobPUAZyKgWs+nInbDKCW53FahKFlfTWQ="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\1fml3o2zy5-8lj8j8a2c1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +3033,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "791"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +3041,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 13:59:07 GMT"
+          "Value": "Thu, 27 Mar 2025 00:25:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3063,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-MBZp2aCQAuw60JqbDq748T7Y5a9KUF72M4FoiWCcVfk="
         }
       ]
     },
@@ -3050,7 +3092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3103,7 +3145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3140,7 +3182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3187,7 +3229,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3248,7 +3290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3293,7 +3335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3348,7 +3390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3409,7 +3451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3454,7 +3496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3509,7 +3551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3562,7 +3604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3599,7 +3641,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:01:23 GMT"
+          "Value": "Thu, 27 Mar 2025 12:34:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3916,6 +3958,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "js/eventDetails.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\6z2dflnw5x-somfmmm0md.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001176470588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "849"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 22:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4="
+        }
+      ]
+    },
+    {
+      "Route": "js/eventDetails.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\eventDetails.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 22:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4="
+        }
+      ]
+    },
+    {
+      "Route": "js/eventDetails.js.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\6z2dflnw5x-somfmmm0md.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 22:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE="
+        }
+      ]
+    },
+    {
+      "Route": "js/eventDetails.somfmmm0md.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\6z2dflnw5x-somfmmm0md.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001176470588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "849"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 22:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "somfmmm0md"
+        },
+        {
+          "Name": "label",
+          "Value": "js/eventDetails.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4="
+        }
+      ]
+    },
+    {
+      "Route": "js/eventDetails.somfmmm0md.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\eventDetails.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 22:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "somfmmm0md"
+        },
+        {
+          "Name": "label",
+          "Value": "js/eventDetails.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nG4eIaFlSntEkgILDC22dvG+lAdQNcEscM38MiruvY4="
+        }
+      ]
+    },
+    {
+      "Route": "js/eventDetails.somfmmm0md.js.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\obj\\Debug\\net9.0\\compressed\\6z2dflnw5x-somfmmm0md.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 22:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "somfmmm0md"
+        },
+        {
+          "Name": "label",
+          "Value": "js/eventDetails.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GxW3tOJEhk18mHTj4fNJBgO0h/nq4qLebpKWxfx/+pE="
         }
       ]
     },

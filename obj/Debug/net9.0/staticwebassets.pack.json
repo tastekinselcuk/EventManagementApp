@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\eventDetails.js",
+      "PackagePath": "staticwebassets\\js\\eventDetails.js"
+    },
+    {
       "Id": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\EventManagementApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

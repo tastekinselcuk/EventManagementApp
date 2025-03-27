@@ -1,0 +1,72 @@
+@model EventManagementApp.Models.DTOs.EventDTO
+
+@{
+    ViewData["Title"] = "Create Event";
+}
+
+<div class="container">
+    <h1 class="page-header">Create New Event</h1>
+    
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        <div class="form-group mb-3">
+                            <label asp-for="Title" class="form-label">Title</label>
+                            <input asp-for="Title" class="form-control" placeholder="Enter event title" />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Date" class="form-label">Date and Time</label>
+                            <input asp-for="Date" type="datetime-local" class="form-control" />
+                            <span asp-validation-for="Date" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Location" class="form-label">Location</label>
+                            <input asp-for="Location" class="form-control" placeholder="Enter event location" />
+                            <span asp-validation-for="Location" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Details" class="form-label">Details</label>
+                            <textarea asp-for="Details" class="form-control" rows="4" placeholder="Enter event details"></textarea>
+                            <span asp-validation-for="Details" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <h4 class="mb-3">Select Participants</h4>
+                            <div class="row g-3">
+                                @foreach (var participant in ViewBag.Participants)
+                                {
+                                    <div class="col-md-6">
+                                        <div class="form-check">
+                                            <input type="checkbox" name="ParticipantIds" 
+                                                   value="@participant.Id" 
+                                                   class="form-check-input" 
+                                                   id="participant_@participant.Id" />
+                                            <label class="form-check-label" for="participant_@participant.Id">
+                                                @participant.FirstName @participant.LastName
+                                            </label>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+
+                        <div class="d-flex gap-2">
+                            <button type="submit" class="btn btn-primary">Create Event</button>
+                            <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
